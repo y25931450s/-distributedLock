@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns="http://www.xiaoying.tv/schema/lock"
+            xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://www.xiaoying.tv/schema/lock"
+            elementFormDefault="qualified"
+            attributeFormDefault="unqualified">
+    <xsd:import namespace="http://www.springframework.org/schema/beans"/>
+    <xsd:element name="enable">
+    </xsd:element>
+</xsd:schema>
